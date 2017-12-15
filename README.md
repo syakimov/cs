@@ -1,6 +1,7 @@
 Undergraduate
 =======================================
-
+Structure and Interpretation of Computer Programs
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/
 Mathematics for Computer Science
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
 Introduction to Computer Science and Programming in Python
