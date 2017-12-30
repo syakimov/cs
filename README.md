@@ -40,3 +40,11 @@ Introduction to Computational Thinking and Data Science
   https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
 Design and Analysis of Algorithms
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
+
+KTH
+=======================================
+
+Reliable Distributed Algorithms 1
+  https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0
+Reliable Distributed Algorithms 2
+  https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x
