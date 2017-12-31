@@ -8,15 +8,22 @@ Induction
     identify predicate, ex: P(n) 3|(n*n*n - n)
     base case n = 0
     inductive step -> ∀n>0 P(n)=> P(n+1)
+  Proof: correct, complete, clear, brief, elegant, well organized, ordered
+Strong induction
+  assume more -> (P(0) AND P(1) AND... AND P(n))
 
 Buzzwords
 ========================
+Thm -> theorem
+lemma -> sub theorem
+conjecture -> assumption
 
 Symbols
 ========================
 
 <=> -> if and only if (both facts have to be true)
 =>  -> implies, implication
+∃   -> exists
 N   -> natural numbers, ex: { 1,2,3,... }
 Z   -> integers/whole, ex: { -1, 0, 1,... }
 R   -> fraction numerator/denominator, ex: 1/3
